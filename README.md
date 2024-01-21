@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Smarikatripathi
-- 👀 I’m studying Computer Engineering.
-- 🌱 Currently I'm a student at Pokhara University.
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me smarikatripathi1@gmail.com ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hello World!, I’m @Smarikatripathi
+- 🌱 Currently I'm studing Computer Engineering at Pokhara University.
+- 📫 How to reach me (smarikatripathi1@gmail.com )
+  
 
 <!---
 Smarikatripathi/Smarikatripathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
