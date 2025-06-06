@@ -44,23 +44,19 @@ Here are some of the projects I've worked on:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![:contentReference[oaicite:28]{index=28}](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![:contentReference[oaicite:29]{index=29}](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white):contentReference[oaicite:31]{index=31}
+![:contentReference[oaicite:29]{index=29}](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![:contentReference[oaicite:33]{index=33}](https://github-readme-stats.vercel.app/api?username=Smarikatripathi&show_icons=true&theme=radical):contentReference[oaicite:35]{index=35}
+![:contentReference[oaicite:33]{index=33}](https://github-readme-stats.vercel.app/api?username=Smarikatripathi&show_icons=true&theme=radical)
 
 ---
 
 ## 🌱 Currently Learning
 
-- :contentReference[oaicite:37]{index=37}
-- :contentReference[oaicite:40]{index=40}
-- :contentReference[oaicite:43]{index=43}:contentReference[oaicite:45]{index=45}
 
----
 
 ## 🤝 Let's Connect
 
