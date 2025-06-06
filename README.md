@@ -1,66 +1,77 @@
-# 👋 Hello, I'm Smarika Tripathi!
+# 👩‍💻 Smarika Tripathi
 
-🎓 Computer Engineering Student at Pokhara University  
-📍 Pokhara, Nepal  
-📧 Reach me at: smarikatripathi1@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/smarika-tripathi-305273257)
+Aspiring Software Engineer | Computer Engineering Student | Backend & Embedded Systems Enthusiast
 
 ---
 
-## 🛠️ Projects
+## 📌 About Me
 
-Here are some of the projects I've worked on:
+I am a Third-year Computer Engineering student at Pokhara University, passionate about building secure, efficient, and scalable systems. My interests lie in **web development**, **biometric authentication**, and **IoT-based solutions**. I enjoy solving real-world problems through code and exploring the synergy between hardware and software.
 
-- **Digital Voting System via Fingerprint**  
-  A secure voting system using ESP32 and fingerprint sensors for voter authentication, with a Django backend managing votes.  
-  [Repository Link](https://github.com/Smarikatripathi/Digital-Voting-System-via-Fingerprint)
+- 🎓 Undergraduate in Computer Engineering – Pokhara University  
+- 🔍 Actively learning: Full-Stack Development, Embedded Systems, and AI  
+- 🤝 Open to internships, collaborations, and research opportunities
 
-- **Sleep Optimization Expert System for Shift Workers**  
-   
-  [Repository Link](https://github.com/Smarikatripathi/Sleep-Optimization-Expert-System-for-Shift-Workers)
-- **Health Monitoring System**  
- 
-  [Repository Link](https://github.com/Smarikatripathi/Health-Monitoring-System)
-- **Library Management System**  
-  
-  [Repository Link](https://github.com/Smarikatripathi/library-Management-System)
-- **Personal Website**  
- 
-  [Repository Link](https://github.com/Smarikatripathi/smarikatripathi.com.np)
 ---
 
-## 💻 Technologies & Tools
+## 🧠 Technical Skills
 
-![:contentReference[oaicite:24]{index=24}](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![:contentReference[oaicite:25]{index=25}](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![:contentReference[oaicite:26]{index=26}](https://img.shields.io/badge/-Prolog-000000?style=flat-square&logo=prolog&logoColor=white)
-![:contentReference[oaicite:27]{index=27}](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![:contentReference[oaicite:28]{index=28}](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![:contentReference[oaicite:29]{index=29}](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Languages:**  
+`Python` `C/C++` `Java` `Prolog` `HTML` `CSS` `JavaScript` `SQL`
+
+**Frameworks & Tools:**  
+`Django` `ESP32` `AS608 Fingerprint Sensor` `Arduino` `Git` `GitHub` `Tinkercad`
+
+**Domains of Interest:**  
+`Web Development` `Embedded Systems` `Biometric Security` `AI & Machine Learning`  
+
+---
+
+## 🧪 Projects
+
+### 🔐 [Fingerprint-Based Digital Voting System](https://github.com/Smarikatripathi/Digital-Voting-System-via-Fingerprint)
+Biometric-based secure voting system using ESP32 and AS608 fingerprint sensor.  
+Tech Stack: ESP32, Django, SQLite, Serial Communication
+
+### 🧠 [Sleep Optimization Expert System](https://github.com/Smarikatripathi/Sleep-Optimization-Expert-System-for-Shift-Workers)  
+Rule-based Prolog expert system for managing and optimizing sleep patterns of shift workers.
+
+### 🏥 [Health Monitoring System](https://github.com/Smarikatripathi/Health-Monitoring-System)  
+A basic client-server model for storing and retrieving user health data.
+
+### 📚 [Library Management System](https://github.com/Smarikatripathi/library-Management-System)  
+C-based console application to manage books, users, and borrowing records.
+
+### 🌐 [Personal Website Prototype](https://github.com/Smarikatripathi/smarikatripathi.com.np)  
+HTML/CSS-based landing and login page design for a personal portfolio site.
 
 ---
 
 ## 📈 GitHub Stats
 
-![:contentReference[oaicite:33]{index=33}](https://github-readme-stats.vercel.app/api?username=Smarikatripathi&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smarikatripathi&show_icons=true&theme=react" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarikatripathi&layout=compact&theme=react" width="380"/>
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Currently Exploring
 
-
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on exciting projects or discussing innovative ideas. Feel free to reach out!
-
-📧 Email: smarikatripathi1@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/smarika-tripathi-305273257)
+- Advanced backend development with Django Rest Framework  
+- Real-time data communication with microcontrollers  
+- AI concepts for affordable emotion recognition systems
 
 ---
 
-*Thank you for visiting my profile!*
+## 📫 Contact
+
+- ✉️ Email: **smarikatripathi1@gmail.com**  
+- 💼 LinkedIn: [Smarika Tripathi](https://www.linkedin.com/in/smarika-tripathi-305273257)  
+- 🌐 Portfolio (Coming Soon)
+
+---
+
+*“Code is the closest thing we have to magic.”*  
+Thank you for visiting my GitHub profile!
+
