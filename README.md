@@ -13,24 +13,20 @@ Here are some of the projects I've worked on:
 
 - **Digital Voting System via Fingerprint**  
   A secure voting system using ESP32 and fingerprint sensors for voter authentication, with a Django backend managing votes.  
-  [Repository Link](https://github.com/Smarikatripathi/Digital-Voting-System-via-Fingerprint):contentReference[oaicite:6]{index=6}
+  [Repository Link](https://github.com/Smarikatripathi/Digital-Voting-System-via-Fingerprint)
 
 - **Sleep Optimization Expert System for Shift Workers**  
   :contentReference[oaicite:8]{index=8}  
-  [Repository Link](https://github.com/Smarikatripathi/Sleep-Optimization-Expert-System-for-Shift-Workers):contentReference[oaicite:10]{index=10}
-
+  [Repository Link](https://github.com/Smarikatripathi/Sleep-Optimization-Expert-System-for-Shift-Workers)
 - **Health Monitoring System**  
   :contentReference[oaicite:12]{index=12}  
-  [Repository Link](https://github.com/Smarikatripathi/Health-Monitoring-System):contentReference[oaicite:14]{index=14}
-
+  [Repository Link](https://github.com/Smarikatripathi/Health-Monitoring-System)
 - **Library Management System**  
   :contentReference[oaicite:16]{index=16}  
-  [Repository Link](https://github.com/Smarikatripathi/library-Management-System):contentReference[oaicite:18]{index=18}
-
+  [Repository Link](https://github.com/Smarikatripathi/library-Management-System)
 - **Personal Website**  
   :contentReference[oaicite:20]{index=20}  
-  [Repository Link](https://github.com/Smarikatripathi/smarikatripathi.com.np):contentReference[oaicite:22]{index=22}
-
+  [Repository Link](https://github.com/Smarikatripathi/smarikatripathi.com.np)
 ---
 
 ## 💻 Technologies & Tools
