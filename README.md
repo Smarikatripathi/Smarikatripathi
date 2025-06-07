@@ -57,7 +57,7 @@ HTML/CSS-based landing and login page design for a personal portfolio site.
 ---
 
 ## 🚀 Currently Exploring
-
+-Working on Digital Voting System Via Fingerprint
 - Advanced backend development with Django Rest Framework  
 - Real-time data communication with microcontrollers  
 - AI concepts for affordable emotion recognition systems
