@@ -9,7 +9,7 @@ Aspiring Software Engineer | Computer Engineering Student @ Pokhara University |
 I am a Third-year Computer Engineering student at Pokhara University, passionate about building secure, efficient, and scalable systems. My interests lie in **web development**, **biometric authentication**, and **IoT-based solutions**. I enjoy solving real-world problems through code and exploring the synergy between hardware and software.
 
 - 🎓 Undergraduate in Computer Engineering – Pokhara University  
-- 🔍 Actively learning: Full-Stack Development, Embedded Systems, and AI  
+- 🔍 Actively learning: Full-Stack Development, Embedded Systems, and AI/ML
 - 🤝 Open to internships, collaborations, and research opportunities
 
 ---
