@@ -1,6 +1,6 @@
 # 👩‍💻 Smarika Tripathi
 
-Aspiring Software Engineer | Computer Engineering Student @ Pokhara University | Beginner in Web Development (HTML, CSS, JS, Python, Django) | Interested in IoT ,Embedded Systems & AI/ML
+Computer Engineering Student @ Pokhara University | Beginner in Web Development (HTML, CSS, JS, Python, Django) | Interested in IoT ,Embedded Systems & AI/ML
 
 ---
 
