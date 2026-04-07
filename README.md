@@ -1,46 +1,56 @@
-👩‍💻 Smarika Tripathi
+# 👩‍💻 Smarika Tripathi  
+Computer Engineering Student | Django Developer | ML & Data Science Enthusiast
+---
 
-Computer Engineering Student | Django Developer | AI/ML Enthusiast
-
-📌 About Me
-
-Final-year Computer Engineering student at Pokhara University with interest in web development, AI/ML, and embedded systems.
+## 📌 About Me  
+Final-year Computer Engineering student at Pokhara University with interest in web development, AI/ML, and embedded systems.  
 I enjoy building practical projects and learning how software and hardware work together to solve real-world problems.
 
-🛠️ Technical Skills
+---
 
-Languages:
-Python, C/C++, Java, HTML, CSS, JavaScript, SQL
+## 🛠️ Technical Skills  
 
-Frameworks & Tools:
-Django, Django REST Framework, Git & GitHub, Arduino, ESP32
+**Languages:**  
+Python, C/C++, Java, HTML, CSS, JavaScript, SQL  
 
-Areas of Interest:
-Web Development • AI/ML • IoT • Data Science
+**Frameworks & Tools:**  
+Django, Django REST Framework, Git & GitHub, Arduino, ESP32  
 
-📂 Projects
+**Areas of Interest:**  
+Web Development • AI/ML • IoT • Data Science  
 
-🔐 Fingerprint-Based Voting System
-Biometric voting system using ESP32 and fingerprint sensor with Django backend
+---
 
-🌐 E-Commerce Website (Ongoing)
-Basic e-commerce platform with authentication and product features
+## 📂 Projects  
 
-🧠 Sleep Optimization Expert System
-Rule-based system using Prolog
+🔐 **Fingerprint-Based Voting System**  
+Biometric voting system using ESP32 and fingerprint sensor with Django backend  
 
-🏥 Health Monitoring System
-Client-server system for managing health data
+🌐 **E-Commerce Website (Ongoing)**  
+Basic e-commerce platform with authentication and product features  
 
-📚 Library Management System
-Console-based system in C
+🧠 **Sleep Optimization Expert System**  
+Rule-based system using Prolog  
 
-🚀 Currently Learning
-Django REST Framework
-Data Science & NLP
-Backend development
-📫 Contact
+🏥 **Health Monitoring System**  
+Client-server system for managing health data  
 
-Email: smarikatripathi1@gmail.com
+📚 **Library Management System**  
+Console-based system in C  
 
-LinkedIn: Smarika Tripathi
+---
+
+## 🚀 Currently Learning  
+- Django REST Framework  
+- Data Science & NLP  
+- Backend development  
+
+---
+
+## 📫 Contact  
+Email: smarikatripathi1@gmail.com  
+LinkedIn: Smarika Tripathi  
+
+---
+
+> "Code is the closest thing we have to magic."
