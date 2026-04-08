@@ -1,5 +1,5 @@
 # 👩‍💻 Smarika Tripathi  
-Computer Engineering Student | Django Developer | ML & Data Science Enthusiast
+Computer Engineering Student | Web Developer with Python | ML & Data Science Enthusiast
 ---
 
 ## 📌 About Me  
