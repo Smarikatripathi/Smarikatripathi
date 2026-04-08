@@ -29,6 +29,9 @@ Biometric voting system using ESP32 and fingerprint sensor with Django backend
 🌐 **E-Commerce Website (Ongoing)**  
 Basic e-commerce platform with authentication and product features  
 
+🏥**Blog Project**
+It allows users to create, read, update, and delete blog posts.
+
 🧠 **Sleep Optimization Expert System**  
 Rule-based system using Prolog  
 
