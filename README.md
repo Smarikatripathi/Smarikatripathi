@@ -44,6 +44,7 @@ Console-based system in C
 ---
 
 ## 🚀 Currently Learning  
+-Advance Web Development with Django ( Payment Integration with Khalti, Searching Product ,Filtering product with categories,vendors,price)
 - Django REST Framework  
 - Data Science & NLP  
 - Backend development  
