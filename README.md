@@ -1,10 +1,11 @@
 # 👩‍💻 Smarika Tripathi  
-Computer Engineering Student | Web Developer with Python | ML & Data Science Enthusiast
+Computer Engineering Student | Django Web Developer | ML & Data Science Enthusiast
 ---
 
 ## 📌 About Me  
-Final-year Computer Engineering student at Pokhara University with interest in web development, AI/ML, and embedded systems.  
-I enjoy building practical projects and learning how software and hardware work together to solve real-world problems.
+I am a final-year Computer Engineering student at Pokhara University with strong experience in Django-based web development.
+
+I enjoy building real-world projects that combine software, hardware, and data to solve practical problems. Passionate about learning new technologies and improving problem-solving skills.
 
 ---
 
@@ -27,7 +28,7 @@ Web Development • AI/ML • IoT • Data Science
 Biometric voting system using ESP32 and fingerprint sensor with Django backend  
 
 🌐 **E-Commerce Website (Ongoing)**  
-Basic e-commerce platform with authentication and product features  
+Advance e-commerce platform with authentication ,Payment Integration with Khalti, Searching Product ,Filtering product with categories,vendors,price 
 
 🏥**Blog Project**<br>
 It allows users to create, read, update, and delete blog posts.
@@ -44,11 +45,11 @@ Console-based system in C
 ---
 
 ## 🚀 Currently Learning  
--Advance Web Development with Django ( Payment Integration with Khalti, Searching Product ,Filtering product with categories,vendors,price)
+- Web Development with Django
+- Postgress SQL
 - Django REST Framework  
 - Data Science & NLP  
-- Backend development  
-
+   
 ---
 
 ## 📫 Contact  
