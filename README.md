@@ -27,7 +27,7 @@ Web Development • AI/ML • IoT • Data Science
 🔐 **Fingerprint-Based Voting System**  
 Biometric voting system using ESP32 and fingerprint sensor with Django backend  
 
-🌐 **E-Commerce Website (Ongoing) [(https://github.com/Smarikatripathi/E-commerce-website- )]**  
+🌐 **E-Commerce Website (Ongoing)**  
 Advance e-commerce platform with authentication , Payment Integration with Khalti, Searching Product , Filtering product with categories,vendors,price 
 
 🏥**Blog Project**<br>
