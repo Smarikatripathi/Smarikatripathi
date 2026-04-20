@@ -54,7 +54,7 @@ Console-based system in C
 
 ## 📫 Contact  
 Email: smarikatripathi1@gmail.com  
-LinkedIn: Smarika Tripathi  
+LinkedIn: https://www.linkedin.com/in/smarika-tripathi-305273257/
 
 ---
 
