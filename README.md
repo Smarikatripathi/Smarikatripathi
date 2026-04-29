@@ -48,7 +48,8 @@ Console-based system in C
 - Web Development with Django
 - Postgress SQL
 - Django REST Framework  
-- Data Science & NLP  
+- Data Science & NLP
+- AWS
    
 ---
 
