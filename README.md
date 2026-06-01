@@ -24,6 +24,9 @@ Web Development • AI/ML • IoT • Data Science
 
 ## 📂 Projects  
 
+🔐 **Legal Information Assistances System (ongoing)**  
+An AI-powered web platform that helps users easily access and understand legal information. It uses Django and RAG to provide accurate answers from trusted legal documents, making legal knowledge more accessible to the public.
+
 🔐 **Fingerprint-Based Voting System**  
 Biometric voting system using ESP32 and fingerprint sensor with Django backend  
 
