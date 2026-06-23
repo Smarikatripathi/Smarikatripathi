@@ -56,11 +56,12 @@ Console-based system in C
    
 ---
 
-## 📫 Contact  
+## 📫 Contact
+```bash
 Email: smarikatripathi1@gmail.com  
 LinkedIn: https://www.linkedin.com/in/smarika-tripathi-305273257/
 Portfolio: https://www.smarikatripathi.com.np/
-
+```
 ---
 
 > "Code is the closest thing we have to magic."
